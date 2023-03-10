@@ -1,0 +1,38 @@
+<style>
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+    div, h5, td, p, th {
+        font-family: Arial;
+    }
+
+    .bg-gray {
+        background-color: #ccc;
+    }
+
+    em {
+        color: gray;
+    }
+
+    table.table-bordered, table.table-bordered td,th {
+        border-collapse: collapse;
+        border: 1px solid black;
+    }
+
+    .text-bold {
+        font-weight: bold;
+    }
+
+    .br-top {
+        margin-top: 20px;
+    }
+
+    .br-top-2 {
+        margin-top: 40px;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+</style>
